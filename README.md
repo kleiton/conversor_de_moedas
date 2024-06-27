@@ -1,4 +1,4 @@
-# currency_quote_project
+# conversor_de_moedas
 
 Aplicação Python para obter e converter cotações do dólar em relação ao real (USD/BRL). Inclui funcionalidades para buscar a cotação do dólar para uma data específica, converter valores e salvar as informações em um arquivo CSV. Utiliza requests para requisições HTTP, pandas para manipulação de dados e logging para registro de eventos.
 
